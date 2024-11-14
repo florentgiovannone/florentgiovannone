@@ -10,7 +10,6 @@ I am currently developing a demo website tailored for the hospitality industry, 
 
 
 My Email: giovannoneflorent@gmail.com
-My Github: https://github.com/florentgiovannone 
 or My portfolio: https://florentgiovannone.com
 <!--
 **florentgiovannone/florentgiovannone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
