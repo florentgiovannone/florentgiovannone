@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Software engineer with expertise in Python, React, TypeScript, JavaScrip. Proficiency in design tools like Figma and experience with both SQL (PERN) and NoSQL (MERN) technology stacks.
+I am a Software engineer with expertise in Python, React, TypeScript, JavaScript. Proficiency in design tools like Figma and experience with both SQL (PERN) and NoSQL (MERN) technology stacks.
 
 I also have knowledge in CSS frameworks such as Bulma, Bootstrap, and Tailwind.
 
